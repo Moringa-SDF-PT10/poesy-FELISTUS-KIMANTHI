@@ -51,12 +51,12 @@ vite-poem-app/
 
 .JavaScript
 
-🧪## Installation & Running Locally
+🧪Installation & Running Locally
 💡 Requires Node.js (>= 16)
 
-1. Clone the repository
+1. Clone the repository:
    --> git clone 'git@github.com:Moringa-SDF-PT10/poesy-FELISTUS-KIMANTHI.git'
-   cd vite-poesy-FELISTUS-KIMANTHI
+   -->cd vite-poesy-FELISTUS-KIMANTHI
 2. Install dependencies
    --> npm install
 3. Start the development server
@@ -64,7 +64,7 @@ vite-poem-app/
 4. Open in your browser
    --> http://localhost:5173
 
-   📷 Screenshots
+📷 Screenshots
 
 | Light Mode                             | Dark Mode                               |
 | -------------------------------------- | --------------------------------------- |
