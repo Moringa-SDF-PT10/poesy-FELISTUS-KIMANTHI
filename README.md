@@ -62,9 +62,9 @@ vite-poem-app/
 4. Open in your browser
    --> http://localhost:5173
 
-| Light Mode                             | Dark Mode                                    |
-| -------------------------------------- | -------------------------------------------- |
-| !![Poem form in light mode](image.png) | ![![Poem form in dark mode](image-1.png)](#) |
+| Light Mode                             | Dark Mode                               |
+| -------------------------------------- | --------------------------------------- |
+| !![Poem form in light mode](image.png) | !![Poem form in dark mode](image-1.png) |
 
 💡 Future Improvements
 . Add user authentication (e.g. Firebase or Supabase)
