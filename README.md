@@ -78,3 +78,6 @@ vite-poem-app/
 📝 License
 MIT License.
 Feel free to use, fork, and modify.
+
+Author
+Built with ❤️ by Felistus Kimanthi
