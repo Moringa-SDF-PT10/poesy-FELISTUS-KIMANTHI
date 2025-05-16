@@ -27,6 +27,7 @@ A lightweight React app for creating, reading, favoriting, and managing your fav
 . Poem data is persisted using local Storage.
 
 📁 Project Structure
+
 vite-poem-app/
 ├── index.html
 ├── vite.config.js
@@ -41,6 +42,7 @@ vite-poem-app/
 │ └── PoemItem.jsx
 
 🛠 Tech Stack
+
 .React
 
 .Vite
@@ -49,7 +51,7 @@ vite-poem-app/
 
 .JavaScript
 
-🧪 Installation & Running Locally
+🧪## Installation & Running Locally
 💡 Requires Node.js (>= 16)
 
 1. Clone the repository
